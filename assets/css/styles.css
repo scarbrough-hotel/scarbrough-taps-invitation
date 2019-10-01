@@ -50,7 +50,7 @@ body {
 }
 
 .invite-text {
-    margin-top: 5px;
+    margin-top: 15px;
     text-align: center;
 }
 
@@ -101,12 +101,19 @@ img {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 30px;
     border-top: solid 2px #f8a104;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 .links {
-    color: #987028;
+    color: #f8a104;
+}
+
+.hast-tag {
+    font-size: 20px;
 }
 
 .social-container {
