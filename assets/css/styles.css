@@ -179,7 +179,7 @@ img {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #bc2a8d;
+    background-image: linear-gradient(to top right, rgba(245,133,41), rgba(254,218,119), rgba(221,42,123), rgba(129,52,175), rgba(81,91,212));
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 7px;
